@@ -198,5 +198,4 @@ This README is organized **by the same “cases” used in the LaTeX paper** (i.
 ## Contributing
 - PRs are welcome! If you add a paper, please also add a **case label** consistent with the taxonomy in the survey.
 - If you know an official code repo, add a `[[Code]](URL)` link after the `[[Paper]]` link.
-- (Optional) If `Code` is a GitHub repo, you can append a star badge:
-  - `[![Stars](https://img.shields.io/github/stars/ORG/REPO?style=social)](https://github.com/ORG/REPO)`
+[![Stars](https://img.shields.io/github/stars/ORG/REPO?style=social)](https://github.com/ORG/REPO
