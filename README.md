@@ -108,6 +108,7 @@ This README is organized **by the same “cases” used in the LaTeX paper** (i.
 - (arXiv 2024) **RAGAR: Your falsehood radar: Rag-augmented reasoning for political fact-checking using multimodal large language models**
 - (arXiv 2025) **Stop-RAG: Value-Based Retrieval Control for Iterative RAG** [[Paper]](https://arxiv.org/abs/2510.14337)
 - (NAACL 2025) **SIM-RAG: Self-Improving Retrieval-Augmented Generation for Adapting Large Language Models to Specialized Domains** [[Paper]](https://aclanthology.org/2025.naacl-long.575/)
+- (arXiv 2026) **MultiAgent-OPD: End-to-End Training of Hierarchical Multi-Agent Systems with On-Policy Distillation** [[Paper]](https://arxiv.org/abs/2610.23234) — Case C · Policy-based control
 
 #### Search-based control
 - (NeurIPS 2023) **Tree of thoughts: Deliberate problem solving with large language models**
